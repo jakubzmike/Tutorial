@@ -2,3 +2,4 @@ HELLO WORLD! I COME IN PEACE!
 Master
 No, wait, I want to take over the world!!!
 Branch B1
+Branch B2
